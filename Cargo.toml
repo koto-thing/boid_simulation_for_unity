@@ -1,0 +1,6 @@
+[package]
+name = "boid_simulation_for_unity"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
